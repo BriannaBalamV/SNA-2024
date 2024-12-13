@@ -7,6 +7,6 @@ This repository contains the project for the subject "Social Network Analysis". 
 ### Project Structure
 The main components of the project are as follows:
 
-- **Data Collection: Using instaloader to fetch friends' data from Instagram.
-- **Data Processing: Constructing a social network graph from the collected data.
-- **Visualization: Plotting the social network graph and analyzing its basic characteristics.
+- Data Collection: Using instaloader to fetch friends' data from Instagram.
+- Data Processing: Constructing a social network graph from the collected data.
+- Visualization: Plotting the social network graph and analyzing its basic characteristics.
